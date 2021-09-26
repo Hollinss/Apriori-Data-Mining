@@ -1,0 +1,100 @@
+Banana,Apple,Orange
+Apple,Orange,Banana
+Tomato,Garlic,Onion
+Banana,Orange,Apple
+Apple,Banana,Orange
+Tomato,Garlic,Onion
+Onion,Garlic,Tomato
+Onion,Banana,Orange
+Onion,Apple,Orange
+Apple,Banana,Orange
+Apple,Banana,Orange
+Tomato,Banana,Apple
+Tomato,Apple
+Apple,Tomato,Garlic
+Garlic,Tomato,Apple
+Tomato,Garlic,Onion
+Garlic,Onion,Tomato
+Onion,Garlic,Apple
+Orange,Apple
+Tomato,Garlic,Onion
+Poster,Thumbtacks,Tape
+Poster,Tape,Thumbtacks
+Tape,Thumbtacks,Poster
+Marker,Poster,Pencil
+Poster,Tape,Thumbtacks
+Tape,Poster,Thumbtacks
+Tape,Poster,Thumbtacks
+Pencil,Marker,Calculator
+Marker,Poster,Pencil
+Thumbtacks,Poster,Tape
+Marker,Pencil,Calculator
+Tape,Thumbtacks,Poster
+Thumbtacks,Poster,Tape
+Poster,Tape
+Poster,Thumbtacks,Tape
+Calculator,Tape,Pencil
+Calculator,Pencil
+Pencil,Poster,Marker
+Marker,Poster,Pencil
+Poster,Marker,Thumbtacks
+Jeans,Shirt,Sweater
+Shoes,Underwear,Socks
+Jeans,Shirt,Sweater
+Shirt,Jeans,Sweater
+Jeans,Shirt,Sweater
+Underwear,Socks,Jeans
+Socks,Underwear,Sweater
+Underwear,Socks,Shirt
+Socks,Underwear
+Underwear,Socks,Jeans
+Jeans,Shirt,Sweater
+Sweater,Jeans,Socks
+Underwear,Socks,Shoes
+Shoes,Jeans,Shirt
+Jeans,Sweater,Shirt
+Shirt,Sweater,Socks
+Sweater,Shirt,Jeans
+Socks,Shirt,Underwear
+Underwear,Socks
+Socks,Underwear
+Fishing rod,Bucket,Bait
+Tent,Hat
+Fishing rod,Bucket,Bait
+Bucket,Fishing rod,Bait
+Hat,Boots,Bucket
+Bucket,Fishing rod,Bait
+Fishing rod,Bait,Boots
+Hat,Bucket,Boots
+Boots,Hat,Tent
+Fishing rod,Bait,Boots
+Bait,Bucket,Hat
+Boots,Tent,Bucket
+Bait,Fishing rod,Tent
+Bucket,Fishing rod,Tent
+Bait,Fishing rod,Boots
+Fishing rod,Bait,Bucket
+Hat,Boots,Tent
+Fishing rod,Bait,Bucket
+Bucket,Bait,Boots
+Bait,Fishing rod
+Sanitizer,Clorox wipes,Paper towels
+Clorox wipes,Paper towels,Sanitizer
+Sanitizer,Clorox wipes
+Clorox wipes,Sanitizer,Paper towels
+Sanitizer,Clorox wipes
+Soap,Febreeze,Paper towels
+Febreeze,Sanitizer,Soap
+Soap,Paper towels,Deodorant
+Deodorant,Soap
+Sanitizer,Clorox wipes,Soap
+Clorox wipes,Sanitizer
+Sanitizer,Clorox wipes,Deodorant
+Sanitizer,Clorox wipes
+Clorox wipes,Sanitizer,Paper towels
+Febreeze,Paper towels,Clorox wipes
+Paper towels,Febreeze
+Soap,Deodorant,Paper towels
+Deodorant,Soap,Febreeze
+Soap,Deodorant
+Deodorant,Febreeze,Sanitizer
